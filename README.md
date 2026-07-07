@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 Shivam
-Ethical Hacker | Private Cyber Investigator | Researcher | Bug Bounty | Cloud Security | OSINT | RED TEAMER |
+Private Cyber Investigator | Researcher | Bug Bounty | Cloud Security | OSINT | RED TEAMER |
 
 Cybersecurity student pursuing a Bachelor of Computer Applications in Cloud and Security at Amity University, Delhi. Active as a private cyber investigator, security researcher, coder, and bug bounty practitioner with a strong focus on ethical hacking, SOC operations, OSINT investigations, and cloud security. Experienced in security research, automation, reconnaissance, and defensive security simulations.
 
